@@ -1,2 +1,2 @@
 # shiny-adventure
-Me learning C++ (for school).
+My (shiny) adventure in C++.
